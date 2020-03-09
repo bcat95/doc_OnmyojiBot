@@ -12,6 +12,10 @@ Welcome to Read the Docs of OnmyojiBot
 
 目录：
 
+.. image:: https://onmyojibot.oss-cn-beijing.aliyuncs.com/usage.png
+   :width: 280 px
+   :align: right
+
 .. toctree::
    :maxdepth: 2
    :numbered: 2
@@ -22,6 +26,7 @@ Welcome to Read the Docs of OnmyojiBot
    how_to_use
    advance
    Q&A
+   donate
 
 索引
 ==================

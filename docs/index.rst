@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. image:: https://onmyojibot.oss-cn-beijing.aliyuncs.com/logo.png
+   :width: 200 px
+   :align: center
+
 Welcome to Read the Docs of OnmyojiBot
 ==================================================
 
@@ -22,8 +26,8 @@ Welcome to Read the Docs of OnmyojiBot
 
    about
    functions
-   principles
    how_to_use
+   principles
    advance
    Q&A
    donate

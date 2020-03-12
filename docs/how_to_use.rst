@@ -80,7 +80,7 @@ MuMu模拟器的额外设置
     /onmyoji_bot文件夹
     ├── /img文件夹
     │   ├── /icon文件夹
-    │   ├── /screenshots文件夹
+    │   └── /screenshots文件夹
     ├── adb.exe
     ├── AdbWinApi.dll
     ├── AdbWinUsbApi.dll

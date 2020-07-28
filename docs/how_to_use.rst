@@ -1,92 +1,92 @@
-使用方法
+Hướng dẫn
 ----------
 
-御魂
+Ngự hồn
 +++++
 
-[单人刷御魂/业原火]
-^^^^^^^^^^^^^^^^^^^
+[Cá nhân ngự hồn/si]
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
 
-#. 打开本工具，切换至御魂选项卡；
+#. Mở công cụ này và chuyển sang tab Ngự;
 
-#. 游戏中进入御魂/业原火主界面（就是有“挑战”按钮的页面），请提前备好式神并 **锁定阵容** ；
+#. Chuyển qua giao diện chính của Ngự hồn / Si trận trong trò chơi (trang có nút "thử thách"), vui lòng chuẩn bị shikigami trước và ** khóa đội hình **;
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-[组队刷御魂]
-^^^^^^^^^^^^^
+[Team Ngự hồn]
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
 
-#. 打开本工具，切换至御魂选项卡，根据自身情况选择“单人司机”或者“单人乘客”；
+#. Mở công cụ này, chuyển sang tab Ngự hồn (Souls), chọn "Lái xe đơn" hoặc "Hành khách đơn" theo tình huống của bạn;
 
-#. 游戏中进入组队页面，请提前备好式神并 **锁定阵容** ，司机请在 **探索** 页面开车，这样能减少1秒左右延迟；
+#. Giao diện team trong trò chơi, vui lòng chuẩn bị trước shikigami của bạn và ** khóa đội hình **, tài xế vui lòng lái xe trên trang ** thăm dò **, có thể giảm độ trễ khoảng 1 giây;
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-[本地双开御魂]
-^^^^^^^^^^^^^^
+[Đội mở]
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
 
-#. 打开本工具，切换至御魂选项卡，选择“双开”选项；
+#. Mở công cụ này, chuyển sang tab Ngự hồn (Souls) và chọn tùy chọn "Double Double";
 
-#. 本地双开游戏，推荐使用V5双开器，在 `网盘 <https://pan.baidu.com/s/1jhHrjRGWmu9yOLq9ryApJA>`_ 中可以下载；
+#. Đối với các trò chơi mở kép cục bộ, nên sử dụng thiết bị mở kép V5, có thể tải xuống trong `Netdisk <https: //pan.b Nikol.com/s/1jhHrjRGWmu9yOLq9ryApJA>` _;
 
-#. 游戏中进入组队页面，请司机和乘客都提前备好式神并锁定阵容；
+#. Giao diện team trong trò chơi, vui lòng chuẩn bị shikigami và khóa đội hình trước;
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-御灵
+Totem
 ++++++++++
 
-#. 打开本工具，切换至御灵选项卡；
+#. Mở công cụ này và chuyển sang tab Totem;
 
-#. 游戏中进入御灵主界面（就是有“挑战”按钮的页面），请提前备好式神并 **锁定阵容**；
+#. Nhập giao diện chính của Totem trong trò chơi (trang có nút "thử thách"), vui lòng chuẩn bị trước Shiki và ** khóa đội hình **;
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-探索
+Thám hiểm
 +++++++
-[单人探索]
-^^^^^^^^^^^
+[Thám hiểm đơn lẻ]
+^ ^ ^ ^ ^ ^ ^ ^ ^
 
-#. 打开本工具，切换至探索选项卡；
+#. Mở công cụ này và chuyển sang tab Khám phá;
 
-#. 按照个人要求设置狗粮，并且 **取消锁定阵容** ；
+#. Thiết lập thức ăn cho chó theo yêu cầu cá nhân và ** hủy khóa đội hình **;
 
-#. 游戏中点开需要探索的章节（就是有“探索”按钮的页面）；
+#. Nhấp vào chương sẽ được khám phá trong trò chơi (trang có nút "Khám phá");
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-[组队探索]
-^^^^^^^^^^
+[Khám phá nhóm]
+^ ^ ^ ^ ^ ^ ^ ^ ^
 
-#. 打开本工具，切换至探索选项卡；
+#. Mở công cụ này và chuyển sang tab Khám phá;
 
-#. 按照个人要求设置狗粮，并且 **取消锁定阵容** ；
+#. Thiết lập thức ăn cho chó theo yêu cầu cá nhân và ** hủy khóa đội hình **;
 
-#. **在游戏中组好队，并在探索页面里面开启脚本** ，同时， **不要打BOSS** ；
+#. ** Tạo 1 team trong game và mở tập lệnh trong giao diện thám hiểm **, đồng thời, ** Đừng chiến đấu với BOSS **;
 
-#. 点击本工具的“开始”按钮。
+#. Nhấp vào nút "Bắt đầu" của công cụ này.
 
-MuMu模拟器的额外设置
+Cài đặt bổ sung cho trình giả lập ***
 ++++++++++++++++++++
 
-对于使用MuMu模拟器的玩家，还需要额外设置ADB驱动。
+Đối với những người chơi sử dụng trình giả lập ***, cũng cần có trình điều khiển ADB bổ sung.
 
-#. 前往 `网盘 <https://pan.baidu.com/s/1jhHrjRGWmu9yOLq9ryApJA>`_ 下载ADB驱动，提取码：gyj9，这些文件也可以在MuMu安装路径找到。
+#. Truy cập `Netdisk <https: //pan.b cướp.com / s / 1jhHrjRGWmu9yOLq9ryApJA>` _ để tải xuống trình điều khiển ADB, mã trích xuất: gyj9, các tệp này cũng có thể được tìm thấy trong đường dẫn cài đặt ***.
 
-#. 将ADB调试工具的三个文件，即 ``adb.exe`` 、 ``AdbWinApi.dll`` 、 ``AdbWinUsbApi.dll`` 和主程序 ``Core.exe`` 放至同一目录(可能不支持中文路径，待测)。
+#. Đặt ba tệp của công cụ gỡ lỗi ADB, cụ thể là `` adb.exe``, `` AdbWinApi.dll``, `` AdbWinUsbApi.dll '' và chương trình chính `` Core.exe '' trong cùng thư mục ( Con đường Trung Quốc có thể không được hỗ trợ, để được kiểm tra).
 
-#. 保证运行文件树如下::
+#. Đảm bảo rằng cây tệp đang chạy như sau ::
 
-    /onmyoji_bot文件夹
-    ├── /img文件夹
-    │   ├── /icon文件夹
-    │   └── /screenshots文件夹
+    / thư mục onmyoji_bot
+    Thư mục ── / img
+    ├── / thư mục biểu tượng
+    Thư mục ảnh chụp màn hình
     ├── adb.exe
     ├── AdbWinApi.dll
     ├── AdbWinUsbApi.dll
-    ├── CHANGELOG.md
+    ├── THAY ĐỔI
     ├── Core.exe
     ├── ui.exe
     └── conf_example.ini
 
-#. 将MuMu模拟器的分辨率设置为 **1136x640** 。
+#. Đặt độ phân giải của trình giả lập MuMu thành ** 1136x640 **.
